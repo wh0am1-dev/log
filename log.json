@@ -1732,6 +1732,41 @@
       "c": "content",
       "t": "quake",
       "d": "champions"
+    },
+    {
+      "c": "research",
+      "t": "design",
+      "d": "ello",
+      "s": "5b53756a",
+      "e": "5b538422"
+    },
+    {
+      "c": "research",
+      "t": "code",
+      "d": "github",
+      "s": "5b538524",
+      "e": "5b538f4b"
+    },
+    {
+      "c": "music",
+      "t": "livecoding",
+      "d": "foxdot",
+      "s": "5b53965c",
+      "e": "5b53a202"
+    },
+    {
+      "c": "music",
+      "t": "livecoding",
+      "d": "foxdot",
+      "s": "5b53aff4",
+      "e": "5b53d40d"
+    },
+    {
+      "c": "music",
+      "t": "livecoding",
+      "d": "foxdot",
+      "s": "5b544a8c",
+      "e": "5b545d16"
     }
   ]
 }
