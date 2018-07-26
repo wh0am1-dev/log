@@ -1233,7 +1233,7 @@
       "e": "5b437910"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b4389b6",
       "e": "5b43aaf2"
@@ -1257,7 +1257,7 @@
       "e": "5b460206"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b462029",
       "e": "5b465b3b"
@@ -1287,7 +1287,7 @@
       "e": "5b47c3da"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b47c962",
       "e": "5b47d1cb"
@@ -1299,7 +1299,7 @@
       "e": "5b48ad6a"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b48cda0",
       "e": "5b48dc2b"
@@ -1341,7 +1341,7 @@
       "d": "champions"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b4cd6ba",
       "e": "5b4d00b4"
@@ -1377,7 +1377,7 @@
       "d": "champions"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b4e24d5",
       "e": "5b4e57af"
@@ -1407,7 +1407,7 @@
       "d": "champions"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b4f7f06",
       "e": "5b4f9552"
@@ -1415,7 +1415,7 @@
       "s": "5b4f9770",
       "e": "5b4fab6c",
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries"
     }, {
       "c": "code",
@@ -1437,7 +1437,7 @@
       "e": "5b509301"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b50af03",
       "e": "5b50bbdd"
@@ -1449,7 +1449,7 @@
       "e": "5b50c110"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b50c6ac",
       "e": "5b50d75a"
@@ -1461,7 +1461,7 @@
       "e": "5b50da2c"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b50da45",
       "e": "5b50e5c3"
@@ -1479,7 +1479,7 @@
       "e": "5b51e773"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b5241d8",
       "e": "5b52b838"
@@ -1539,7 +1539,7 @@
       "d": "champions"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b561029",
       "e": "5b56448f"
@@ -1569,7 +1569,7 @@
       "e": "5b5734b3"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b574674",
       "e": "5b578f9e"
@@ -1599,7 +1599,7 @@
       "d": "champions"
     }, {
       "c": "work",
-      "t": "buclecreativo",
+      "t": "bucle",
       "d": "berries",
       "s": "5b58bb82",
       "e": "5b58e466"
@@ -1627,6 +1627,12 @@
       "c": "content",
       "t": "quake",
       "d": "champions"
+    }, {
+      "c": "work",
+      "t": "bucle",
+      "d": "berries",
+      "s": "5b5a0626",
+      "e": "5b5a397e"
     }
   ]
 }
