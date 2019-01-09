@@ -1,0 +1,78 @@
+{
+  "config": {
+    "ui": {
+      "bg": "#202020",
+      "colour": "#f8f8f8",
+      "accent": "#eb4e32",
+      "colourMode": "sector",
+      "font": "sans-serif",
+      "view": 32,
+      "tableView": 50,
+      "stat": "human"
+    },
+    "system": {
+      "calendar": "gregorian",
+      "timeFormat": "24"
+    }
+  },
+  "palette": {
+    "code": "#2e76c3",
+    "music": "#83bd75",
+    "research": "#ffd954",
+    "design": "#ac54a8",
+    "content": "#eb4e32",
+    "work": "#333"
+  },
+  "projectPalette": {},
+  "log": [
+    {
+      "c": "code",
+      "t": "github",
+      "d": "choof",
+      "s": "5c2cda3a",
+      "e": "5c2ced77"
+    },
+    {
+      "c": "design",
+      "t": "github",
+      "d": "choof dotgrid",
+      "s": "5c2ced87",
+      "e": "5c2cf79a"
+    },
+    {
+      "c": "code",
+      "t": "github",
+      "d": "choof",
+      "s": "5c2cf79c",
+      "e": "5c2d3dd1"
+    },
+    {
+      "c": "research",
+      "t": "code",
+      "d": "choo + glslify",
+      "s": "5c2d3f13",
+      "e": "5c2d65ff"
+    },
+    {
+      "c": "design",
+      "t": "code",
+      "d": "resume",
+      "s": "5c2f8732",
+      "e": "5c2fd54a"
+    },
+    {
+      "c": "design",
+      "t": "aikido festival",
+      "d": "spreadsheet",
+      "s": "5c34bd90",
+      "e": "5c34dd0d"
+    },
+    {
+      "c": "research",
+      "t": "github",
+      "d": "shields / gitmoji",
+      "s": "5c34e72e",
+      "e": "5c34efe1"
+    }
+  ]
+}
